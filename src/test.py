@@ -5,12 +5,21 @@ Created on 2014/11/01
 '''
 
 import arimori
+import nishikori
 
-def main():
+def defaultPrint():
 
     print "Hello, world."
     print "I am a boy."
+
+    return
+
+
+def main():
+
+    defaultPrint()
     arimori.arimori()
+    nishikori.nishikori()
 
     return
 

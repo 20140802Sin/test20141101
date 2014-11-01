@@ -6,6 +6,8 @@ Created on 2014/11/01
 def arimori():
 
     print "I was gay. "
+    print "It's said from my husband."
+    print "I was a gold medalist in Olympic."
 
     return
 
